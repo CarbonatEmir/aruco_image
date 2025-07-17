@@ -48,6 +48,5 @@ Ensure that the markers are well-lit and clearly visible for accurate detection.
 
 The overlay video (recep.webm) should be located in the same directory or adjust the path accordingly.
 
-License
-MIT License
+
 
